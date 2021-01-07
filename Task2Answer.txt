@@ -1,0 +1,13 @@
+						VIDEO TAGGING
+
+1.Feasibility:
+	Video tagging enables machines to assign relevant keywords to digital pictures. 
+	This process is used in image retrieval systems for organizing images in a vast database. 
+	It is a part of multi-class machine learning image classification.
+2.Methodology:
+	In this tagging method the model analyses  and understands objects, people, text and
+	scenes within imagery and video.Then uses these information to generate relevant tags for the video.
+3.Challanges:
+	The challanges we face in implementing this model is when we have blur,high contrast,noise in the video
+	it is difficult for the model to predict correcty.Same thing happens when there are too many objects in 
+	the background.
